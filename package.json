@@ -1,0 +1,15 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "day": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
+}
